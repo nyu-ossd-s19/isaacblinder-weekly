@@ -1,2 +1,2 @@
-This is a simple template for the class blog. 
+Isaac Blinder's Weekly blog
 
