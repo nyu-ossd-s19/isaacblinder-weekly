@@ -20,6 +20,9 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+|  1   | https://github.com/nyu-ossd-s19/isaacblinder-weekly/blob/gh-pages/_posts/2019-02-03-week01.md    | Blog post  |   I added the week 1 blog.    |
+|  2   |  https://github.com/nyu-ossd-s19/isaacblinder-weekly/blob/gh-pages/_posts/2019-02-10-week02.md   |  Blog post  |   I added the week 2 blog.   |
+|  3   |   https://github.com/nyu-ossd-s19/isaacblinder-weekly/blob/gh-pages/_posts/2019-02-17-week03.md  |  Blog post  |   I added the week 3 blog.   |
+|  4   |  https://github.com/nyu-ossd-s19/isaacblinder-weekly/blob/gh-pages/_posts/2019-02-24-week04.md   |  Blog post  |   I added the week 4 blog.   |
+|  5   |   https://github.com/nyu-ossd-s19/isaacblinder-weekly/blob/gh-pages/_posts/2019-03-03-week05.md  |  Blog post  |   I added the week 5 blog.   |
+|  6   |   https://github.com/nyu-ossd-s19/isaacblinder-weekly/blob/gh-pages/_posts/2019-03-10-week06.md  |  Blog post  |   I added the week 6 blog.   |
