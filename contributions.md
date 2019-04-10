@@ -28,3 +28,5 @@ Replace the first row with your contribution.
 |  5   |   https://github.com/nyu-ossd-s19/isaacblinder-weekly/blob/gh-pages/_posts/2019-03-03-week05.md  |  Blog post  |   I added the week 5 blog.   |
 |  6   |   https://github.com/nyu-ossd-s19/isaacblinder-weekly/blob/gh-pages/_posts/2019-03-10-week06.md  |  Blog post  |   I added the week 6 blog.   |
 |  7   |   https://github.com/nyu-ossd-s19/isaacblinder-weekly/blob/gh-pages/_posts/2019-03-31-week7.md  |  Blog post  |   I added the week 7 blog.   |
+|  7   |   https://en.wikipedia.org/w/index.php?title=Tottenham_Hotspur_F.C._in_European_football&oldid=891792424  |  Wiki Contribution  |   I made my first contribution to Wikipedia. My profile contributions page --> https://en.wikipedia.org/wiki/Special:Contributions/Isaacblinder |
+
