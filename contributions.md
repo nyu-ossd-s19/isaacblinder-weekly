@@ -23,4 +23,5 @@ Replace the first row with your contribution.
 |  2   |  https://github.com/nyu-ossd-s19/tabi-clock/pull/13   |  Pull request  |   I set up a new feature for the Tabi-Clock group project.   |
 |  6   | https://github.com/akiran/react-slick/issues/1451    | Comment on Issue  |   I researched an issue on this react component and found the solution.    |
 |  7   |   https://en.wikipedia.org/w/index.php?title=Tottenham_Hotspur_F.C._in_European_football&oldid=891792424  |  Wiki Contribution  |   I made my first contribution to Wikipedia. My profile contributions page --> https://en.wikipedia.org/wiki/Special:Contributions/Isaacblinder |
+|  12   |   https://github.com/red-gold/react-social-network/issues/111  |  Comment on Issue  |   I tested the issue, and asked for more information on recreating the issue. |
 
