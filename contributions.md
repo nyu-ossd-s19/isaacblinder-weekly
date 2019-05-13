@@ -26,3 +26,4 @@ Replace the first row with your contribution.
 |  12   |   [link to contribution](https://github.com/red-gold/react-social-network/issues/111)  |  Comment on Issue  |   I tested the issue, and asked for more information on recreating the issue. |
 |  12   |   [link to contribution](https://github.com/red-gold/react-social-network/pull/113)  |  Pull Request (new feature)! |   I learned the code in the repo (the most daunting part of this contribution) then found a cool feature to add. This has been a work in the making for a long time. |
 |  13   |   [link to contribution](https://en.wikipedia.org/w/index.php?title=Struganica&diff=896923511&oldid=814504631)  |  Wikipedia Contribution |   I updated this wikipedia page with the most recent census data. |
+|  13   |   [link to contribution](https://en.wikipedia.org/wiki/User:Isaacblinder)  |  Created Wiki User Page |   I created a user page for my profile. |
